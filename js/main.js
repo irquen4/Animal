@@ -77,8 +77,8 @@ $('.textmonial_active').owlCarousel({
   }
 });
 
-// about_active
-$('.about_active').owlCarousel({
+// detalles-animal.html_active
+$('.detalles-animal.html_active').owlCarousel({
   loop:true,
   margin:0,
   items:1,
@@ -285,7 +285,7 @@ if (document.getElementById('default-select')) {
   $('select').niceSelect();
 }
 
-  //about-pro-active
+  //detalles-animal.html-pro-active
 $('.details_active').owlCarousel({
   loop:true,
   margin:0,
